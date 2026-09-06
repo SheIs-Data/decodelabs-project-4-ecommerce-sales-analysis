@@ -245,7 +245,7 @@ The available filters include:
 decodelabs-project-4-ecommerce-sales-analysis
 │
 ├── 📁 Dashboard
-│   └── Ecommerce Sales Dashboard.pbix
+│   └── Ecommerce Sales Dashboard by Poweide Abigail Edonkumoh.pbix
 │
 ├── 📁 Dataset
 │   └── Cleaned Dataset.xlsx
